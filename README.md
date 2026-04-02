@@ -1,8 +1,7 @@
-![header](https://media.cargocollective.com/1/6/199303/headerimg/do_retina.jpg)
+👋 Hi, I’m Fil Dunsky @fildunsky
+I’m interested in OpenWRT, ImmortalWRT, LEDE, routers, modems, coding, ui and character design.
 
-- 👋 Hi, I’m Fil Dunsky @fildunsky
-- 👀 I’m interested in OpenWRT, routers, coding, ui and character design
-- 📫 Telegram me at @fil_dunsky
+📫 Telegram me at @fil_dunsky
 
 💵 If you want to support me:
 - USDT TRC20: `TYMvqGyFx2AbLyHwXHu8AqkKdnupZCSyFt`
