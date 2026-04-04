@@ -1,5 +1,4 @@
-👋 Hi, I’m Fil Dunsky @fildunsky
-I’m interested in OpenWRT, ImmortalWRT, LEDE, routers, modems, coding, ui and character design.
+Fil Dunsky, interested in OpenWRT, ImmortalWRT, LEDE, routers, modems, coding, ui and character design.
 
 📫 Telegram me at @fil_dunsky
 
