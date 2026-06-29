@@ -1,7 +1,7 @@
-Fil Dunsky, interested in OpenWRT, boards, routers, modems, coding, ui and character design.
+OpenWrt, boards, routers, modems, coding, ui, character design, illustration, yoga.
 
 📫 Telegram me at @fil_dunsky
-💵 If you want to support me, just let me know
+💵 If you want to support me, just let me know.
 
 <!---
 fildunsky/fildunsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
